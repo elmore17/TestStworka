@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.modal_block {
+    display: flex;
+    align-items: center;
+    width: 743px;
+    height: 91px;
+    border-radius: 10px;
+    background-color: #3579F5;
+}
+
+.text_elips {
+    font-family: "Roboto", sans-serif;
+    transform: rotate(90deg) translate(0px, -91px);
+    line-height: 30px;
+}
+
+.check_list {
+    background-color: #2364DB;
+    border-radius: 40px;
+    width: 56px;
+    margin-top: 12px;
+    height: 18px;
+    padding: 0 10px 0 10px;
+    text-align: center;
+}
+
+.check_list .check_list_text {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.text__title {
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+    color: #FFFFFF;
+}
+
+.text__description {
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-top: 4px;
+    margin-bottom: 15px;
+    color: #FFFFFF;
+}
+
+button {
+    font-family: "Roboto", sans-serif;
+    width: 170px;
+    height: 40px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    color: #4777ED;
+    border: none;
+    margin-left: 68px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}
